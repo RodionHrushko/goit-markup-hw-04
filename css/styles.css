@@ -145,7 +145,7 @@ margin: 0 auto;
 background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/peopleoffice1.jpg);
 background-repeat: no-repeat;
 background-position: center;
-block-size: cover;
+background-size: cover;
 
 
 
@@ -202,6 +202,18 @@ background-color: #404BBF;
 }
 .portfolio{
     padding: 120px 0 120px;
+}
+
+.portfolio-swg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    border: 1px solid #8e8f99;
+    margin-bottom: 8px;
+    
 }
 
 .portfolio-list{
