@@ -208,11 +208,12 @@ background-color: #404BBF;
     margin-bottom: 8px;
     align-items: center;
         justify-content: center;
+  
 }
 
 .portfolio-swg{
     
-    
+    width: 264px;
     height: 112px;
     background-color: #f4f4fd;
     border-radius: 4px;
@@ -223,12 +224,13 @@ background-color: #404BBF;
 }
 
 .portfolio-img{
+    width: 64px;
+    height: 64px;
     
-
 }
 
 .use-img{
-    width: 64px;
+ 
 }
 
 .portfolio-list{
