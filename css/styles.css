@@ -203,17 +203,32 @@ background-color: #404BBF;
 .portfolio{
     padding: 120px 0 120px;
 }
+.portfolio-swg-list{
+    display: flex;
+    margin-bottom: 8px;
+    align-items: center;
+        justify-content: center;
+}
 
 .portfolio-swg{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    
+    
     height: 112px;
     background-color: #f4f4fd;
     border-radius: 4px;
     border: 1px solid #8e8f99;
-    margin-bottom: 8px;
+    margin-right: 24px;
+   
     
+}
+
+.portfolio-img{
+    
+
+}
+
+.use-img{
+    width: 64px;
 }
 
 .portfolio-list{
